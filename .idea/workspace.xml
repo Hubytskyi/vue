@@ -5,13 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcb3b7fa-608e-410c-a088-ac0abf5e8936" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pass.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/controllers/goalController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/middleware/errorMiddleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/goalRouters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/config/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/model/goalModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/src/components/TheWelcome.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/src/components/WelcomeItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/src/components/icons/IconCommunity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/src/components/icons/IconDocumentation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/src/components/icons/IconEcosystem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/src/components/icons/IconSupport.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/src/components/icons/IconTooling.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-project/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.env" beforeDir="false" afterPath="$PROJECT_DIR$/server/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/goalController.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/goalController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652679948295</updated>
-      <workItem from="1652679950119" duration="5792000" />
+      <workItem from="1652679950119" duration="8405000" />
     </task>
     <servers />
   </component>
